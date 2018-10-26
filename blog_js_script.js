@@ -105,7 +105,7 @@ function startScript() {
 	}
 }
 
-RecordableDrawing = function(canvasId) {
+RecordableDrawing = function(canvasId) {  
 	var self = this;
 	this.canvas = null;
 	this.width = this.height = 0;
